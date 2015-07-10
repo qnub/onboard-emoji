@@ -2,6 +2,8 @@
 
 Tested on **Ubuntu 15.04 x64** but should work for any OS with **OnBoard** onscreen keyboard.
 
+![screenshot](screenshot.png)
+
 ## How to use
 
 To display emoji you need to install font, which contain emoji symbols. Run command:
