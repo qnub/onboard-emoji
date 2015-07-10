@@ -2,7 +2,7 @@
 
 Tested on **Ubuntu 15.04 x64** but should work for any OS with **OnBoard** onscreen keyboard.
 
-![screenshot](screenshot.png)
+![screenshot](http://i.imgur.com/m880YhS.png)
 
 ## How to use
 
