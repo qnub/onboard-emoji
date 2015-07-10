@@ -26,6 +26,6 @@ I prefer open emoji keyboard by hotkey, so i disable auto show keyboard on input
 
 Layout `.svg` template contain grid for 12x9 symbol buttons and for 16 panel switchers which allow display up to 12x9x16=1728 emoji. `.json` file contain obvious configuration for panels. `.onboard.template` contain common `.onboard` structure to generate layout. `.py` script generate new `.onboard` file in `layout` folder based on this config and onboard template.
 
-**NOTE:** some emoji contain more than one symbol (including invisible characters) so by careful to operate with it.
+**NOTE:** some emoji contain more than one symbol (including invisible characters) so be careful to operate with it.
 
 How to modify `.svg` template you can read in your `/usr/share/onboard/docs/layouts.html`
