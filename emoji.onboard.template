@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<!---
+Copyright © 2015, Vadim Lopatyuk
+
+Designed for using with Onboard software.
+
+Onboard is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or
+(at your option) any later version.
+
+Onboard is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<keyboard
+    id="emoji"
+    format="3.2"
+    section="contributions"
+    summary="Emoji symbols"
+    description="Keyboard layout for emoji input."
+    author="Vadim Lopatyuk">
+  <include file="emoji_key_defs.xml"/>
+  <box border="1" spacing="2.0" orientation="vertical">
+    <panel><!-- row side -->
+      <key group="click" id="move" tooltip="Move keyboard"/>
+      <key group="click" id="hide" tooltip="Hide keyboard"/>
+      <key group="click" id="quit" tooltip="Quit Keyboard"/>
+      <key group="click" id="settings" tooltip="Settings"/>
+      <key group="bottomrow" id="BKSP"/>
+    <!-- row bottom -->
+      <key group="bottomrow" id="layer0.like_rtrn"/>
+      <key group="bottomrow" id="layer1.like_rtrn"/>
+      <key group="bottomrow" id="layer2.like_rtrn"/>
+      <key group="bottomrow" id="layer3.like_rtrn"/>
+      <key group="bottomrow" id="layer4.like_rtrn"/>
+      <key group="bottomrow" id="layer5.like_rtrn"/>
+      <key group="bottomrow" id="layer6.like_rtrn"/>
+      <key group="bottomrow" id="layer7.like_rtrn"/>
+      <key group="bottomrow" id="layer8.like_rtrn"/>
+      <key group="bottomrow" id="layer9.like_rtrn"/>
+      <key group="bottomrow" id="layer10.like_rtrn"/>
+      <key group="bottomrow" id="layer11.like_rtrn"/>
+      <key group="bottomrow" id="layer12.like_rtrn"/>
+    </panel>
+  </box>
+</keyboard>
